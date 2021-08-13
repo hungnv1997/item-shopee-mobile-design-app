@@ -6,7 +6,7 @@
 - Reactjs
 ---
 ## Figma design
-<img width="200px" align-item="center" src="https://user-images.githubusercontent.com/46401220/129366476-53bf8deb-1603-4bfc-9446-664490e5799e.png">
+[<img width="200px" align-item="center" src="https://user-images.githubusercontent.com/46401220/129366476-53bf8deb-1603-4bfc-9446-664490e5799e.png">]
 ---
 ## Contributors
 -Nguyen Viet Hung <hung.nv1557@gmail.com>
