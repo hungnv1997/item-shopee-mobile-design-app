@@ -1,0 +1,15 @@
+.nav{
+    box-shadow: 0px -2px 4px 0px #00000040;
+    z-index: 3;
+    display: flex;
+    position: fixed;
+    left: 0;
+    bottom: 0!important;
+    width: 100%;
+    justify-content: space-around;
+    &__icon{
+        fill:#ababab;
+    width: 35px;
+    height: 55px;
+    }
+}

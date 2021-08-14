@@ -1,1 +1,25 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+body > #root > div {
+  height: 100vh;
+}
+
+.nav {
+  -webkit-box-shadow: 0px -2px 4px 0px #00000040;
+          box-shadow: 0px -2px 4px 0px #00000040;
+  z-index: 3;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: fixed;
+  left: 0;
+  bottom: 0 !important;
+  width: 100%;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.nav__icon {
+  fill: #ababab;
+  width: 35px;
+  height: 55px;
+}
+/*# sourceMappingURL=style.css.map */
